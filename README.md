@@ -1,5 +1,11 @@
-# 💫 About Me:
-<br>🔭 I'm currently working on: Developing production-ready client applications with React and Node.js at Giakaa Capital, building scalable solutions with a focus on clean code and performance optimization. My experience also includes integrating social media and e-commerce APIs to create innovative solutions like an Instagram bot for beauty product identification.<br><br><br>🤝 I'm looking to collaborate on: Cutting-edge AI/ML projects, particularly those involving Large Language Models (LLMs) and their application in real-world scenarios. I'm eager to contribute to projects that push the boundaries of what's possible with AI, such as the researcher helper project I envision.<br><br><br>💡 I'm looking for help with: Expanding my knowledge and practical experience in advanced AI/ML concepts, especially in areas related to natural language processing, information retrieval, and model deployment for large-scale applications. I'm always open to mentorship and learning from experienced professionals.<br><br><br>🌱 I'm currently learning: Deeply immersed in the exciting world of AI/ML, with a particular focus on Large Language Models (LLMs). My goal is to master the skills required to build a researcher helper project that can intelligently scrap research papers and answer user queries on specific topics. This involves exploring advanced techniques in data processing, model training, and efficient deployment of AI solutions.<br><br><br>💬 Ask me about: Full-stack development, responsive UI/UX design with React and Tailwind CSS, API integration, and building robust web applications. I'm also passionate about discussing the latest advancements in AI/ML, particularly LLMs, and how they can be leveraged to solve complex problems and drive innovation.<br><br><br>⚡ Fun fact: I'm driven by a strong desire to transform innovative ideas into tangible realities, whether it's through developing impactful software solutions for tech organizations or empowering startups to achieve their vision. My journey is fueled by continuous learning and a genuine enthusiasm for technology's potential to shape the future.<br><br>
+# 💫 About Me
+
+👨‍💻 Full-stack developer 
+🤖 Exploring AI/ML & LLMs — building a smart *researcher assistant*  
+🤝 Open to collabs on real-world AI & full-stack projects  
+🧠 Always learning | Love clean code, good UI, and smart systems  
+💬 Ask me about web dev, APIs, UI/UX, or making AI useful!
+
 
 
 ## 🌐 Socials:
